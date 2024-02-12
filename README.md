@@ -1,1 +1,1 @@
-# projetoCES27
+# Projeto CES27 Processamento Distribuído
